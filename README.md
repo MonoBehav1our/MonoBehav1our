@@ -7,12 +7,10 @@
 
 ---
 
-### Активность
 ![Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonoBehav1our&theme=react-dark&hide_border=true)
 
 ---
 
-### Статистика
 <p align="left">
   <img src="https://streak-stats.demolab.com.com?user=MonoBehav1our&theme=github-dark&hide_border=true" alt="Streak stats" />
 </p>
@@ -28,5 +26,4 @@
 
 ---
 
-### Змейка
 ![Snake animation](https://raw.githubusercontent.com/MonoBehav1our/MonoBehav1our/output/github-contribution-grid-snake.svg)
