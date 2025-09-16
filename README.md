@@ -8,8 +8,8 @@
 ---
 
 ### Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=github_dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=github_dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonoBehav1our&show_icons=true&theme=github_dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonoBehav1our&layout=compact&theme=github_dark&hide_border=true)  
 
 ---
 
