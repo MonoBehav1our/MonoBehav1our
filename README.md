@@ -8,11 +8,11 @@
 ---
 
 ### Активность
-![Commits](https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=github-dark&hide_border=true)
+![Commits](https://github-readme-activity-graph.vercel.app/graph?username=MonoBehav1our&theme=github-dark&hide_border=true)
 
 ---
 
 ### Метрики
-![Metrics](https://metrics.lecoq.io/TВОЙ_НИК?template=classic&activity=1&base=header,activity&config.timezone=Europe%2FMoscow)
+![Metrics](https://metrics.lecoq.io/MonoBehav1our?template=classic&activity=1&base=header,activity&config.timezone=Europe%2FMoscow)
 
 ---
