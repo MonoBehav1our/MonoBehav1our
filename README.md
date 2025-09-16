@@ -12,10 +12,6 @@
 ---
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com.com?user=MonoBehav1our&theme=github-dark&hide_border=true" alt="Streak stats" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MonoBehav1our&theme=github_dark" alt="Profile details" />
 </p>
 
