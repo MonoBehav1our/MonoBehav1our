@@ -7,11 +7,12 @@
 
 ---
 
-### Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonoBehav1our&show_icons=true&theme=github_dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonoBehav1our&layout=compact&theme=github_dark&hide_border=true)  
+### Активность
+![Commits](https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=github-dark&hide_border=true)
 
 ---
 
-### Коммиты
-![GitHub Snake](https://github.com/MonoBehav1our/MonoBehav1our/blob/output/github-contribution-grid-snake.svg)
+### Метрики
+![Metrics](https://metrics.lecoq.io/TВОЙ_НИК?template=classic&activity=1&base=header,activity&config.timezone=Europe%2FMoscow)
+
+---
