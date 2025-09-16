@@ -14,7 +14,7 @@
 
 ### Статистика
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MonoBehav1our&theme=github-dark&hide_border=true" alt="Streak stats" />
+  <img src="https://treak-stats.demolab.com.herokuapp.com?user=MonoBehav1our&theme=github-dark&hide_border=true" alt="Streak stats" />
 </p>
 
 <p align="left">
