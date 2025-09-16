@@ -1,12 +1,15 @@
 name: Generate Snake
 
 on:
-  schedule: # запуск каждый день в полночь
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # запуск вручную
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
