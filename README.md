@@ -2,7 +2,7 @@
 
 ### Стек
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,go,postgres,redis,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,linux,git,kafka" />
 </p>
 
 ---
