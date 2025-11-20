@@ -7,10 +7,6 @@
 
 ---
 
-![Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=MonoBehav1our&theme=react-dark&hide_border=true)
-
----
-
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MonoBehav1our&theme=github_dark" alt="Profile details" />
 </p>
